@@ -1,0 +1,34 @@
+{
+  "data": {
+    "account_id": "1020008559",
+    "msg_id": "e2a870b3-20e1-41df-94ae-fc732a09da73",
+    "payload": {
+      "account_full_domain": "freddymig1.freshapratim.com",
+      "action": "create",
+      "action_epoch": 1760529103.323575,
+      "changes": {},
+      "event_info": {},
+      "model_properties": {
+        "account_id": "1020008559",
+        "entities": [
+          "salary",
+          "unpaid leaves"
+        ],
+        "intent": "Issue",
+        "ticket_id": "322363",
+        "ticket_type": "Incident"
+      }
+    },
+    "payload_type": "skill_create_migration",
+    "payload_version": "1.0.0",
+    "pod": "poduseast1",
+    "region": "us-east-1",
+    "service": "freddy-freshservice"
+  },
+  "meta": {
+    "central": {
+      "collected_at": 1760529103335,
+      "request_id": "68110f69-73c1-492e-8b73-f4053d123d59"
+    }
+  }
+}
