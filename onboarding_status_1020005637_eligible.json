@@ -1,0 +1,35 @@
+{
+  "data": {
+    "account_id": "1020005637",
+    "msg_id": "e8c5c8ee-6eb0-43d3-a45f-aabb4d27f134",
+    "payload": {
+      "action": "onboarding",
+      "action_epoch": 1759743369.2938704,
+      "changes": {},
+      "event_info": {},
+      "meta": {
+        "central": {
+          "collected_at": 1759743369.2938726,
+          "request_id": "e8c5c8ee-6eb0-43d3-a45f-aabb4d27f134"
+        }
+      },
+      "model_properties": {
+        "account_id": 1020005637,
+        "status": "eligible"
+      },
+      "msg_id": "e8c5c8ee-6eb0-43d3-a45f-aabb4d27f134",
+      "region": "us-east-1",
+      "service": "freddy-services"
+    },
+    "payload_type": "onboarding_status",
+    "payload_version": "1.0.0",
+    "pod": "poduseast1",
+    "service": "freddy-services"
+  },
+  "meta": {
+    "central": {
+      "collected_at": 1759743369300,
+      "request_id": "bd48346f-c12c-4ad1-9669-51c1626e77b9"
+    }
+  }
+}
