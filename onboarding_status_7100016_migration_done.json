@@ -1,0 +1,29 @@
+{
+  "data":{
+    "msg_id":"0b5487bb-9757-48a8-aa49-5bbf9ceb3d64",
+    "account_id":"7100016",
+    "service":"freddy-freshservice",
+    "payload_type": "onboarding_status",
+    "payload_version":"1.0.0",
+    "pod" : "poduseast1",
+    "region" : "us-east-1",
+    "payload":{
+      "event_info": {
+        "migrated_count": 2
+      },
+      "account_full_domain":"ep-acc-infocity250801055802.freshlocale.com",
+      "model_properties": {
+        "account_id": 7100016,
+        "status": "migrated"
+      },
+      "action":"update",
+      "action_epoch":1754569908.1212912
+    }
+  },
+  "meta":{
+    "central":{
+      "request_id":"9492f06a-f860-46c8-8af5-f758cf8a4932",
+      "collected_at":1754569908124
+    }
+  }
+}
