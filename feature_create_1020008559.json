@@ -1,0 +1,77 @@
+{
+  "data": {
+    "account_id": "1020008559",
+    "msg_id": "51de0f62a9a911f09523b27bf13bd4ed-feature_create",
+    "payload": {
+      "accept": true,
+      "account_full_domain": "freddymig1.freshapratim.com",
+      "account_type": "itsm",
+      "action": "create",
+      "action_epoch": 1760520513.6945379,
+      "actor": {
+        "id": 153027,
+        "name": "System",
+        "type": 0
+      },
+      "associations": {},
+      "changes": {
+        "misc_changes": {},
+        "model_changes": {
+          "account_id": [
+            null,
+            1020008559
+          ],
+          "created_at": [
+            null,
+            "2025-10-15T14:58:33+05:30"
+          ],
+          "id": [
+            null,
+            845858
+          ],
+          "type": [
+            null,
+            "SkillBasedRoutingFeature"
+          ],
+          "updated_at": [
+            null,
+            "2025-10-15T14:58:33+05:30"
+          ]
+        },
+        "system_changes": []
+      },
+      "event_info": {
+        "api_to_central": false,
+        "approvals_writes_to_service_enabled": false,
+        "ip_address": null,
+        "itsm_approvals_cancellation_enabled": false,
+        "message_uuid": null,
+        "service": "fs-itildesk"
+      },
+      "event_timestamp": "2025-10-15T09:28:33.694Z",
+      "mkp_accept": true,
+      "model": "Features::Feature",
+      "model_properties": {
+        "bundle_id": "890474170221305834",
+        "created_at": "2025-10-15T14:58:33+05:30",
+        "fr_account_id": 2518973,
+        "id": 845858,
+        "name": "SkillBasedRoutingFeature",
+        "updated_at": "2025-10-15T14:58:33+05:30"
+      },
+      "product_push_timestamp": "2025-10-15T14:58:33+05:30",
+      "uuid": "51de0f62a9a911f09523b27bf13bd4ed-feature_create"
+    },
+    "payload_type": "feature_create",
+    "payload_version": "1.0.0",
+    "pod": "poduseast1",
+    "region": "us-east-1",
+    "service": "freshservice"
+  },
+  "meta": {
+    "central": {
+      "collected_at": 1760520513788,
+      "request_id": "3d0407bd-fe0e-40e4-aa9a-e53c69935ea5"
+    }
+  }
+}
